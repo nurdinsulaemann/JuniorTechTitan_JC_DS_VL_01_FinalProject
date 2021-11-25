@@ -1,5 +1,5 @@
 # JuniorTechTitan_JC_DS_VL_01_FinalProject
-## Anggota Proyek :
+## Anggota Project :
 1. Simon Perdananta [Email](mailto:simonperdananta@gmail.com)
 1. Nurdin Sulaeman [Email](mailto:nurdinsulaeman28@gmail.com)
 1. Prana Pramudita Kusdiananggalih [Email](mailto:pranapramudita@gmail.com)
